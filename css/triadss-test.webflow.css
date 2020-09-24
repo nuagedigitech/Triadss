@@ -2909,6 +2909,7 @@
   .footer-links-div-1 {
     padding-top: 0px;
     padding-bottom: 0px;
+    align-items: flex-start;
   }
   .columns-4 {
     -webkit-box-orient: vertical;
@@ -3088,6 +3089,8 @@
   .footer-links-div-1-copy {
     padding-top: 0px;
     padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 20px;
   }
   .footer-links-div-1-copy-2 {
     padding-top: 0px;
