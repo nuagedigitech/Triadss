@@ -1418,6 +1418,7 @@
 
 .bold-text-5 {
   font-weight: 600;
+  color: #666;
 }
 
 .accordion-text-div {
@@ -1570,6 +1571,9 @@
 
 .bold-text-6 {
   font-weight: 600;
+  color: #666666;
+  font-size: 16px;
+  line-height: 26px;
 }
 
 .hcm-column {
@@ -2014,6 +2018,7 @@
 
 .text-block-11 {
   font-family: 'Open Sans', sans-serif;
+  color: #666666;
   font-size: 16px;
   line-height: 36px;
 }
